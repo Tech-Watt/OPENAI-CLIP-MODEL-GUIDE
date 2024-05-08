@@ -1,0 +1,8 @@
+torch 
+torchvision 
+torchaudio 
+ftfy 
+regex 
+tqdm 
+opencv-python-headless 
+git+https://github.com/openai/CLIP.git
